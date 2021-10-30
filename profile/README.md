@@ -8,7 +8,7 @@ Here you will find all our workshop Git repositories (please check our Git works
 
 
 
-## About
+<!-- ## About
 The Google Developer Student Club (GDSC) is a student-led community backed by Google Developers aimed at empowering undergraduate students from all disciplines to grow their knowledge in technology, build solutions for their local communities, and connect with other members from the Google community.
 
 ## Creating impact and empowering students through technology
@@ -25,3 +25,4 @@ Whether you are new to software development or you've been developing for quite 
 Community Projects is a semester-long program where students create software-based solutions for a problem in their community. By being a part of a community project, you’ll gain industry-standard knowledge and experience of must-have skills such as Python, Java, web development, backend/frontend development, databases, and much more!
 You could potentially earn a credit for CSC392/CSC492 while working on your project under faculty guidance! Additionally, you may be able to submit your project as a part of the global DSC Solution challenge by Google.
 Don't worry you don't need to come with a project idea or a team to apply. You will have tons of opportunities to form teams and brainstorm ideas!
+ -->
