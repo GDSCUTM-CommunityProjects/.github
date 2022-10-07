@@ -4,6 +4,6 @@ Here you will find all our community projects and workshop repositories
 (please check our Git workshop if you don't know what a repository is 😉). 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/745359834546700418/a_8a45c67d1b6be4358b5da23a1040f035.gif?size=512" />
+  <img src="https://i.imgur.com/0Yxdr0S.gif" alt="Google Developer Student Clubs University of Toronto Mississauga"/>
 </p>
 
